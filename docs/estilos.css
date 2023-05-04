@@ -1,0 +1,24 @@
+main {
+    border: 3px solid rgb(218, 211, 12);
+    height: 640px;
+    width: 1100px;
+    margin: auto;
+}
+
+header {
+    border: 2px solid rgb(238, 77, 28);
+    height: 100px;
+}
+
+nav {
+    border: 2px solid rgb(28, 238, 74);
+    height: 60px;
+}
+section {
+    border: 2px solid rgb(238, 28, 154);
+    height: 440px;
+}
+footer {
+    border: 2px solid rgb(28, 95, 238);
+    height: 25px;
+}

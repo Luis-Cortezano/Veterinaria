@@ -1,48 +1,57 @@
 main {
-    border: 3px solid rgb(218, 211, 12);
-    height: 640px;
+    border: 3px solid black;
+    height: 660px;
     width: 1100px;
     margin: auto;
 }
 
 header {
-    border: 2px solid rgb(238, 77, 28);
-    height: 100px;
+    border: 2px solid black;
+    height: 110px;
 }
 
 nav {
-    border: 2px solid rgb(28, 238, 74);
+    border: 2px solid black;
     height: 60px;
+    margin: 5px 0px 5px 0px;
 }
 section {
-    border: 2px solid rgb(238, 28, 154);
+    border: 2px solid black;
     height: 440px;
+    padding: 3px;
 }
 footer {
-    border: 2px solid rgb(28, 95, 238);
+    border: 2px solid black;
     height: 25px;
 }
 aside{
-    border: 2px solid rgb(34, 2, 8);
+    border: 2px solid black;
     float: left;
     height: 435px;
     width: 400px;
 }
 article{
-    border: 2px solid rgb(11, 52, 173);
+    border: 2px solid black;
     float: right;
     height: 142px;
     width: 680px;
 }
 article{
-    border: 2px solid rgb(11, 52, 173);
+    border: 2px solid black;
     float: right;
     height: 142px;
     width: 680px;
 }
 article{
-    border: 2px solid rgb(11, 52, 173);
+    border: 2px solid black;
     float: right;
     height: 142.3px;
     width: 680px;
+}
+
+nav ul li{
+    border: 2px solid black;
+    display: inline-block;
+    width: 100px;
+    margin-right: 15px;
 }

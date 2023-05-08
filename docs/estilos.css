@@ -22,3 +22,27 @@ footer {
     border: 2px solid rgb(28, 95, 238);
     height: 25px;
 }
+aside{
+    border: 2px solid rgb(34, 2, 8);
+    float: left;
+    height: 435px;
+    width: 400px;
+}
+article{
+    border: 2px solid rgb(11, 52, 173);
+    float: right;
+    height: 142px;
+    width: 680px;
+}
+article{
+    border: 2px solid rgb(11, 52, 173);
+    float: right;
+    height: 142px;
+    width: 680px;
+}
+article{
+    border: 2px solid rgb(11, 52, 173);
+    float: right;
+    height: 142.3px;
+    width: 680px;
+}
